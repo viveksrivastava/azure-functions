@@ -1,4 +1,6 @@
-[{"quote": "Life isn’t about getting and having, it’s about giving and being.", "author": "Kevin Kruse"},
+package io.github.vivek.quotes
+
+val quotesJson = """[{"quote": "Life isn’t about getting and having, it’s about giving and being.", "author": "Kevin Kruse"},
     {"quote": "Whatever the mind of man can conceive and believe, it can achieve.", "author": "Napoleon Hill"},
     {"quote": "Strive not to be a success, but rather to be of value.", "author": "Albert Einstein"},
     {"quote": "Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference.", "author": "Robert Frost"},
@@ -99,4 +101,4 @@
     {"quote": "Either write something worth reading or do something worth writing.", "author": "Benjamin Franklin"},
     {"quote": "Nothing is impossible, the word itself says, “I’m possible!”", "author": "–Audrey Hepburn"},
     {"quote": "The only way to do great work is to love what you do.", "author": "Steve Jobs"},
-    {"quote": "If you can dream it, you can achieve it.", "author": "Zig Ziglar"}]
+    {"quote": "If you can dream it, you can achieve it.", "author": "Zig Ziglar"}]"""
