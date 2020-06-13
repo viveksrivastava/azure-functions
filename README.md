@@ -5,3 +5,6 @@ Create a function in Azure that responds to HTTP requests and print random quote
 
 
 [Microsoft -> create-first-azure-function](https://docs.microsoft.com/en-gb/azure/azure-functions/functions-create-first-azure-function-azure-cli?tabs=cmd%2Cbrowser&pivots=programming-language-java)
+
+----
+Kotlin 
